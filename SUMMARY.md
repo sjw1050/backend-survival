@@ -1,44 +1,27 @@
-‌# Table of contents
+# Table of contents
+
+* [README](README.md)
 
 ## 데브로드 진행
 
-* [1 주차]
-    * [1주차 HTTP]
-        *배운 것 
-    > 1.HTTP란 무엇인가?
-    > 2.OSI 7계층 
-    > 3.HTTP METHOD
-    > 4.HTTP Status
-    > 5.TCP/IP
-
-    *느낀 점*
-    1. Status는 200번대 400번대 500번대만 알고 있었는데 300번대의 리다이렉트 코드가 있는지 알게 되었다 
-    또한 201번의 create 코드에 대해서도 알게 되었다 
-    또한 100번대의 코드가 존재하는지도 알게되었다 
-
-    2. 정보처리 기능사 필기시험과 컴활 1급 공부할 때 많이 듣던 OSI 7계층이 나왔다 바로 그 물데네전세표응 
-    보통은 1,2,3,4 7로 넘어간다고 한다 
-
-    3. HTTPS가 왜 HTTPS인가 하였는데 기본 HTTP에 보안계층인 TLS가 들어갔을 때 HTTPS가 된다는 걸 알게 되었다.
-
-    *어려웠던 점* 
-     HTTP메시지를 주고받는 것에 대해서 정확한 이론으로는 처음 보게되었는데 듣고 이해를 하는데 어려움이 있었다 
-     개발자모드를 통해 보여주니 이해하는데 조금은 수월하였던 것 같다.
-* [2 주차]
-    * [2주차 내용]
-* [3 주차]
-    * [3주차 내용]
-* [4 주차]
-    * [4주차 내용]
-* [5 주차]
-    * [5주차 내용]
-* [6 주차]
-    * [6주차 내용]
-* [7 주차]
-    * [7주차 내용]
-* [8 주차]
-    * [8주차 내용]
-* [9 주차]
-    * [9주차 내용]
-* [10 주차]
-    * [10주차 내용]
+* [\[1 주차\]](undefined/1/README.md)
+  * [\[1주차 HTTP\]](undefined/1/1-http.md)
+  * [\[1주차 client, server\]](undefined/1/1-client-server.md)
+* [\[2 주차\]](undefined/2/README.md)
+  * [\[2주차 내용\]](undefined/2/2.md)
+* [\[3 주차\]](undefined/3/README.md)
+  * [\[3주차 내용\]](undefined/3/3.md)
+* [\[4 주차\]](undefined/4/README.md)
+  * [\[4주차 내용\]](undefined/4/4.md)
+* [\[5 주차\]](undefined/5/README.md)
+  * [\[5주차 내용\]](undefined/5/5.md)
+* [\[6 주차\]](undefined/6/README.md)
+  * [\[6주차 내용\]](undefined/6/6.md)
+* [\[7 주차\]](undefined/7/README.md)
+  * [\[7주차 내용\]](undefined/7/7.md)
+* [\[8 주차\]](undefined/8/README.md)
+  * [\[8주차 내용\]](undefined/8/8.md)
+* [\[9 주차\]](undefined/9/README.md)
+  * [\[9주차 내용\]](undefined/9/9.md)
+* [\[10 주차\]](undefined/10/README.md)
+  * [\[10주차 내용\]](undefined/10/10.md)
