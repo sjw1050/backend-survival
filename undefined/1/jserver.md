@@ -2,8 +2,8 @@
 
 ## HTTPServer을 이용하여 서버 구현 
 
-> InetSoketAddress \n
-> HTTPServer \n
+> InetSoketAddress     
+> HTTPServer      
 > exchange와 람다식 활용
 
 ### 배운 것
@@ -25,19 +25,19 @@ Request 및 response코드를 입력하니 접속이 아주 잘됨..ㅠㅠ
 
 ### [1주차 SpringMVC]
 
-드디어 익숙한 스프링을 보게 되었다 
-MVC패턴이란 Model - View - Controller로 이루어진 패턴이다 
+드디어 익숙한 스프링을 보게 되었다    
+MVC패턴이란 *Model - View - Controller*로 이루어진 패턴이다  
 
 내가 알고있는 MVC는 아래와 같다 
-> *Controller* - 사용자가 입력한 데이터를 입력받아 Model의 데이터처리 및 결과값을 View로 전송한다 \n 
-> *Model* - Controller에서 입력받은 데이터를 처리한다 \n
-> *View* - 사용자에게 처리된 데이터를 보여준다
+> *Controller* - 사용자가 입력한 데이터를 입력받아 Model의 데이터처리 및 결과값을 View로 전송한다      
+> *Model* - Controller에서 입력받은 데이터를 처리한다      
+> *View* - 사용자에게 처리된 데이터를 보여준다      
 
 본인은 국비과정에서 
-*@Controller* \n 
-*@RequestMapping("/member/")* \n
+*@Controller*      
+*@RequestMapping("/member/")*     
 
-*@GetMapping("regist")* \n
+*@GetMapping("regist")*       
 이런식으로 많이 사용을 했다 
 localhost:8080/member/regist주소로 가면 registForm으로 이동하게끔 만들었었다
 
