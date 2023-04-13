@@ -3,16 +3,20 @@
 ## HTTP란 무엇인가&#x20;
 
 > * HTTP란 무엇인가?
+> ㄴ하나의 프로토콜이다 
 > * OSI 7계층&#x20;
+> ㄴ 정보처리 기능사 필기와 컴활 1급에서 보던 OSI 7계층(물데네전세표응)
 > * HTTP METHOD
+> ㄴ 흔히 알고있는 REST get, post, put, patch, delete 등
 > * HTTP Status code&#x20;
+> ㄴ 2xx, 4xx, 5xx와 같이 응답코드
 > * TCP/IP&#x20;
+> ㄴ 통신하여 데이터를 전송하는것으로 이해했다
 
 ### 배운것&#x20;
 
-1. Status code는 200번  OK , 404 NotFound, 500 ServerError만 알았었는데 100번대의 코드와 300번대의 리다이렉션 코드가 있는지 처음 알게 되었다&#x20;
-2. 정보처리 기능사 필기와 컴활 1급에서만 보던 OSI 7계층(물데네전세표응)을 조금 더 자세하게 알게되었다
-3. HTTP에 보안계층인 TLS가 들어가면 HTTPS가된다는 것을 알았다&#x20;
+- Status code는 200번  OK , 404 NotFound, 500 ServerError만 알았었는데 100번대의 코드와 300번대의 리다이렉션 코드가 있는지 처음 알게 되었다&#x20;
+- HTTP에 보안계층인 TLS가 들어가면 HTTPS가된다는 것을 알았다&#x20;
 
 ### 어려웠던 것&#x20;
 
