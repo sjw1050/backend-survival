@@ -3,10 +3,10 @@
 ## HTTP란 무엇인가&#x20;
 
 > * HTTP란 무엇인가?     
-> ㄴ하나의 프로토콜이다 
+> ㄴ 하나의 프로토콜이다 
 > * OSI 7계층&#x20;     
 > ㄴ 정보처리 기능사 필기와 컴활 1급에서 보던 OSI 7계층(물데네전세표응)     
-> * HTTP METHOD
+> * HTTP METHOD        
 > ㄴ 흔히 알고있는 REST get, post, put, patch, delete 등     
 > * HTTP Status code&#x20;     
 > ㄴ 2xx, 4xx, 5xx와 같이 응답코드
