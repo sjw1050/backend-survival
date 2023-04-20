@@ -13,7 +13,8 @@
 #### Collection Pattern
 
 * 여러리소스를 하나의 그룹으로 묶을 수 있다 **ex) /members/{id}** {id}는 Post ID라고 부른다
-* !! Post ID와 리소스를 식별하는 ID는 다르다
+
+&#x20; !! Post ID와 리소스를 식별하는 ID는 다르다
 
 **ex) /members?member\_id={member\_id}** 이런식으로 사용도 가능한데 이건 국비과정에서 프로젝트할 떄 자주쓰던거라 본인에게도 많이 익숙하다
 
@@ -29,10 +30,14 @@
 
 > Http 메소드와 같이 설명하겠다
 >
-> * Create - POST - **ex) POST /members** ㄴ 회원가입이라고 보면 된다 본인은 members/regist 이런식으로 많이 사용하였다
-> * Read - GET - **ex) GET /members** ㄴ 멤버의 목록을 보여준다
-> * Update - PUT, PATCH **ex) /members/{id}** ㄴ id에 해당하는 멤버를 업데이트(회원수정)한다
-> * Delete - DELETE **ex) /members/{id}** ㄴ id에 해당하는 멤버를 삭제한다(회원탈퇴) 이런 식으로 표현이 가능하다
+> * Create - POST - **ex) POST /members**   &#x20;
+> * ㄴ 회원가입이라고 보면 된다 본인은 members/regist 이런식으로 많이 사용하였다
+> * Read - GET - **ex) GET /members**&#x20;
+> * ㄴ 멤버의 목록을 보여준다
+> * Update - PUT, PATCH **ex) /members/{id}**&#x20;
+> * ㄴ id에 해당하는 멤버를 업데이트(회원수정)한다
+> * Delete - DELETE **ex) /members/{id}**&#x20;
+> * ㄴ id에 해당하는 멤버를 삭제한다(회원탈퇴) 이런 식으로 표현이 가능하다
 
 #### CQS란 무엇인가?
 
