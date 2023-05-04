@@ -16,6 +16,7 @@
   * [\[3주차 CORS\]](undefined/3/3-2.md)
 * [\[4 주차\]](undefined/4/README.md)
   * [\[4주차 LayerdArchitecture\]](undefined/4/4.md)
+  * [\[4주차 DomainModel\]](undefined/4/4-2.md)
 * [\[5 주차\]](undefined/5/README.md)
   * [\[5주차 내용\]](undefined/5/5.md)
 * [\[6 주차\]](undefined/6/README.md)
