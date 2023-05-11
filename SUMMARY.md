@@ -18,7 +18,7 @@
   * [\[4주차 LayerdArchitecture\]](undefined/4/4.md)
   * [\[4주차 DomainModel\]](undefined/4/4-2.md)
 * [\[5 주차\]](undefined/5/README.md)
-  * [\[5주차 내용\]](undefined/5/5.md)
+  * [\[5주차 DI & Test\]](undefined/5/5.md)
 * [\[6 주차\]](undefined/6/README.md)
   * [\[6주차 내용\]](undefined/6/6.md)
 * [\[7 주차\]](undefined/7/README.md)
