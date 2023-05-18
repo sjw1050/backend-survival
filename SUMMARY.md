@@ -20,7 +20,7 @@
 * [\[5 주차\]](undefined/5/README.md)
   * [\[5주차 DI & Test\]](undefined/5/5.md)
 * [\[6 주차\]](undefined/6/README.md)
-  * [\[6주차 내용\]](undefined/6/6.md)
+  * [\[6주차 DB / JDBC\]](undefined/6/6.md)
 * [\[7 주차\]](undefined/7/README.md)
   * [\[7주차 내용\]](undefined/7/7.md)
 * [\[8 주차\]](undefined/8/README.md)
