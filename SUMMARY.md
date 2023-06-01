@@ -25,7 +25,7 @@
   * [\[7주차 JPA - (ORM, hibernate, embeddable)\]](undefined/7/7.md)
   * [\[7주차 JPA - (Relationship Mapping, SpringDataJPA)\]](undefined/7/7-2.md)
 * [\[8 주차\]](undefined/8/README.md)
-  * [\[8주차 내용\]](undefined/8/8.md)
+  * [\[8주차 DomainDrivenDesign\]](undefined/8/8.md)
 * [\[9 주차\]](undefined/9/README.md)
   * [\[9주차 내용\]](undefined/9/9.md)
 * [\[10 주차\]](undefined/10/README.md)
